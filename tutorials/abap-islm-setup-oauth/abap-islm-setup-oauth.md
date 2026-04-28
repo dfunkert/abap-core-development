@@ -148,11 +148,11 @@ In this step, you subscribe to SAP AI Launchpad and assign the required role col
 
 8\. In the **Assign Role Collection** dialog, select the following role collections and confirm:
 
-- **ailaunchpad_aicore_admin_editor**
-- **ailaunchpad_allow_all_resourcegroups**
-- **ailaunchpad_connections_editor**
-- **ailaunchpad_genai_manager**
-- **ailaunchpad_mloperations_editor**
+- `ailaunchpad_aicore_admin_editor`
+- `ailaunchpad_allow_all_resourcegroups`
+- `ailaunchpad_connections_editor`
+- `ailaunchpad_genai_manager`
+- `ailaunchpad_mloperations_editor`
 
 ![BTP Cockpit: Assign Role Collection](./images/Screenshot-3-07.png)
 
