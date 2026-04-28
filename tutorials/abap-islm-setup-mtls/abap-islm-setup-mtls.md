@@ -377,7 +377,7 @@ In this step, you create an OAuth 2.0 client configured for mTLS authentication 
 
 5\. Choose **Save**.
 
-> ℹ️ **NOTE**: The selected **SSL Client PSE** is used for mTLS authentication. It provides the client certificate for authentication and contains the trusted CA certificate required to establish trust with the certificate endpoint (certurl).
+> ℹ️ **NOTE**: The selected **SSL Client PSE** is used for mTLS authentication. It provides the client certificate for authentication and contains the trusted CA certificate required to establish trust with the certificate endpoint (`certurl`).
 
 6\. Congratulations! You have successfully created the OAuth 2.0 client for ISLM.
 
